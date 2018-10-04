@@ -1,12 +1,6 @@
-# hojun# 요새 (FORTRESS)
-# 요새 (FORTRESS) : 
-
-- **문제 내용 :**
-
-@ -16,15 +16,67 @@
-
-- **힌트 :** 
-
-  - 트리노드의 자료구조를 어떻게 정의하느냐에 따라 코드의 복잡성이 감소함
-  - 자주 사용되는 비교 연산은 별도의 함수로 작성하도록 할 것
-  - 코드의 복잡성을 줄여야 논리적으로 꼬이지 않음 (트리구축
+# 가_지호준_hw1 # 실행 방법
+# procman con1.txt
+# procman con2.txt
+# procman con3.txt
+# procman con4.txt
+# procman con5.txt
